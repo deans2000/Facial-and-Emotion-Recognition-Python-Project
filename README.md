@@ -1,8 +1,12 @@
-# Facial and Emotion Recognition | Python Project
+# Facial and Emotion Recognition - Python Project
 
 ## Project Description
 
 This project implements a facial recognition system combined with an emotion recognition system using Python. It employs a Convolutional Neural Network (CNN) to detect faces and classify emotions based on various facial characteristics, such as eyes, lips, and eyebrows. The model is trained using the FER2013 dataset to recognize seven emotions: neutrality, happiness, surprise, fear, sadness, anger, and disgust. Additionally, it leverages FaunaDB to manage a database of users, storing their names and associated face images. The project also includes a simple graphical user interface (GUI) for adding and deleting users, as well as running the facial and emotion recognition process in real time using a webcam.
+
+## Requirements
+
+- **Python 3.11.x** is required to run this project.
 
 ## Setup Instructions
 
