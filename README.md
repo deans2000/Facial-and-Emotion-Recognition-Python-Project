@@ -1,4 +1,4 @@
-# Facial and Emotion Recognition - Python Project
+# Facial and Emotion Recognition | Python Project
 
 ## Project Description
 
